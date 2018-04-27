@@ -19,9 +19,9 @@ If the site is known to be malicious, inform the user, unpause and kill the proc
 ## User Experience
 
 ### Unknown Link/Not identified as malicious
-![ScreenShot](https://imgur.com/IFGn1DD)
+![ScreenShot](https://i.imgur.com/IFGn1DDg.png)
 ### Malicious/Phishing Link
-![ScreenShot](https://imgur.com/lqJSmdz)
+![ScreenShot](https://i.imgur.com/lqJSmdzg.png)
 
 ### Disclaimer
 THIS HAS NOT BEEN TESTED IN A PRODUCTION ENVIRONMENT AND IS MEANT AS A POC ONLY. The author and contributors of this script assume NO liability for the use of this script.
